@@ -91,5 +91,5 @@ This Python script checks:
 
 - Subscribe to the [Apps mailing list](https://list.yunohost.org/cgi-bin/mailman/listinfo/apps) to be informed about packaging evolution.
 
-### Officalization of an application
-To become an official application, it must be tested well enough, be stable and should work on 64 bits, 32 bits et ARM processor architectures, and on Debian Jessie. If you think those conditions are met, ask for [official integration](https://github.com/YunoHost/apps) of your application.
+### Officialization of an application
+To become an official application, it must be tested well enough, be stable and should work on 64 bits, 32 bits and ARM processor architectures, and on Debian Jessie. If you think those conditions are met, ask for [official integration](https://github.com/YunoHost/apps) of your application.
